@@ -1,0 +1,2 @@
+# DjangoInit
+Initial Django server
